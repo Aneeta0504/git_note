@@ -22,3 +22,9 @@ git add. >>all files added to staging area.
 git commit -m "my first commit"
 
 git clone repository url>> for cloning a repository from github
+
+git branch newbranch
+
+git switch newbranch
+
+git pull
